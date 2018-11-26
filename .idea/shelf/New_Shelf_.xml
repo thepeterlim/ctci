@@ -1,0 +1,74 @@
+<changelist name="New_Shelf_" date="1543190948018" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/shelved.patch" />
+  <option name="DESCRIPTION" value="New Shelf?" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/atomicwrites-1.2.1.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/attr/py.typed" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/py.typed" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/attrs-18.2.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/colorama-0.4.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/more_itertools-4.3.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pluggy-0.8.0.dist-info/LICENSE" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/LICENSE" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pluggy-0.8.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/py-1.7.0.dist-info/LICENSE" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/LICENSE1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/py-1.7.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pytest-4.0.0.dist-info/LICENSE" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/LICENSE2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pytest-4.0.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/six-1.11.0.dist-info/RECORD" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/RECORD7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Scripts/py.test.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/py.test.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Scripts/pytest.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/New_Shelf_/pytest.exe" />
+  </binary>
+</changelist>
